@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  flex-direction: column;
+
+
+  background-image: url('https://img.freepik.com/free-photo/abstract-flowing-neon-wave-background_53876-101942.jpg?w=2000')
+
+}
+
+
+.Form{width: 40%;
+background-color: transparent
+;
+}
+
+
+.footer{text-align: center;
+
+padding-bottom:   6%;
+}
+
+

@@ -1,0 +1,14 @@
+.Movielist {
+    padding-top:  3%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 2%;
+
+    justify-content: space-around;
+    ;
+}
+.Form{
+    display: flex;
+}
+
